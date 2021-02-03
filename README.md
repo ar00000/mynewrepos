@@ -1,0 +1,2 @@
+# mynewrepos
+Repository for exercise
