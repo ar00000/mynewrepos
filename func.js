@@ -1,5 +1,5 @@
-function double(val){
+function doubles(val)
 return val*2;
 }
 x=2;
-double(x);
+doubles(x);
